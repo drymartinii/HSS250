@@ -1,0 +1,6 @@
+{
+  "name": "Moneyball Case Study Submission Portal",
+  "description": "Online submission form and database for collecting, reviewing, and exporting student responses to the Moneyball Decision Making case study.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
